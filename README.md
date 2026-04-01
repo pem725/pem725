@@ -23,4 +23,4 @@ I study how people find purpose, how we measure psychological constructs without
 
 ---
 
-[Homepage](https://pem725.github.io) · [Academic CV](https://pem725.github.io/cv/) · [patrickemcknight.com](http://patrickemcknight.com)
+[Homepage](https://pem725.github.io) · [Academic CV](https://pem725.github.io/cv/) · [Scholarly Impact](https://pem725.github.io/impact/) · [patrickemcknight.com](http://patrickemcknight.com)
